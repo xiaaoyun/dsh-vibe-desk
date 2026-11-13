@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="vd-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7df6"/>
+      <stop offset="0.55" stop-color="#6a5bf0"/>
+      <stop offset="1" stop-color="#e8578f"/>
+    </linearGradient>
+    <linearGradient id="vd-gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="url(#vd-bg)"/>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="url(#vd-gloss)"/>
+  <g fill="#ffffff">
+    <rect x="15" y="29" width="4.4" height="14" rx="2.2" opacity="0.78"/>
+    <rect x="22.4" y="22" width="4.4" height="21" rx="2.2" opacity="0.9"/>
+    <rect x="29.8" y="26" width="4.4" height="17" rx="2.2" opacity="0.82"/>
+    <rect x="37.2" y="18" width="4.4" height="25" rx="2.2" opacity="0.95"/>
+  </g>
+  <path d="M46.4 34.2a7.1 7.1 0 1 0 0-3.4" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="46.4" cy="32.5" r="2" fill="#ffffff"/>
+</svg>
